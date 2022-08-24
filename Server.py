@@ -1,5 +1,4 @@
-#Aaron Moo
-#Assignment 1
+
 
 #from socket import *		 	 # Import socket module
 import sys
